@@ -22,6 +22,9 @@ Install Gradle 6.8.3
 - https://gradle.org/install (scroll down for Windows instructions) 
 - Version 6.9 should work: https://services.gradle.org/distributions/gradle-6.9-bin.zip
 
-Run with:
-- gradle clean desktop:run
+
+Run as follows:
+- git clone https://github.com/societystacktrace/MaccabiSoccer.git
+- cd MaccabiSoccer\java (or MaccabiSoccer/java)
+- gradle desktop:run 
 
