@@ -1,4 +1,4 @@
-# MaccabiSoccer
+# Maccabi Soccer
 Based on YSoccer.  https://sourceforge.net/p/ysoccer
 
 
